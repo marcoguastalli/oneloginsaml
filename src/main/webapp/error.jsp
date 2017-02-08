@@ -1,0 +1,1 @@
+<%@ page isErrorPage="true" import="java.io.*" contentType="text/plain"%><%=exception!=null?exception.getMessage():"ERROR"%>
